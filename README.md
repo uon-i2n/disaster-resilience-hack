@@ -1,4 +1,4 @@
-# disaster-resilience-hack
+# Disaster-resilience-Hack
 10-11 May, 2019 
 X101 New Space, Hunter St, Newcastle
 
